@@ -1,0 +1,1 @@
+print("Lam bai thu 7 phai nop roi")
